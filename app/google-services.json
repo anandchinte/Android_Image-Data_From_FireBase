@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720876762681",
+    "project_id": "chintefirebase1",
+    "storage_bucket": "chintefirebase1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720876762681:android:820271b4676c70b308ffe8",
+        "android_client_info": {
+          "package_name": "com.example.chintedownloadimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720876762681-sfrreoh2vjs08ifr32oodhv2umrg4v2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJHCnkMQjIRrPLh2bLwRQ6pyvwJyJj_IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720876762681-sfrreoh2vjs08ifr32oodhv2umrg4v2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
